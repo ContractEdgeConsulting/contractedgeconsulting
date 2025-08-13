@@ -1,16 +1,19 @@
-## Hi there 👋
+# ContractEdge Consulting — Website
 
-<!--
-**ContractEdgeConsulting/contractedgeconsulting** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is a lightweight, fast, and responsive website for **ContractEdge Consulting** with the slogan **"Your Edge in Every Contract"**.
 
-Here are some ideas to get you started:
+## How to Use
+1. Unzip the archive.
+2. Double‑click `index.html` to preview locally.
+3. Deploy to any static host (GitHub Pages, Netlify, Vercel, Hostinger, etc.).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Customize
+- Update contact details inside `index.html` (search for phone/email).
+- Colors are defined at the top of `styles.css` via CSS variables.
+- Replace images in `/assets/` as needed. The logo is an editable SVG.
+
+## Notes
+- WhatsApp CTA uses: `https://wa.me/2349058577277`
+- The contact form uses `mailto:` for simple setups. For production, wire to a form service (e.g., Formspree, Basin).
+
+© 2025 ContractEdge Consulting
